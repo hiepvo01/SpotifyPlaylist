@@ -1,0 +1,6 @@
+spotipy
+scikit-learn
+numpy
+python-dotenv
+lyricsgenius
+pandas
